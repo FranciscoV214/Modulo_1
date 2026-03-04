@@ -2,13 +2,13 @@
 
 **Ejercicio 1: Cómo crear, modificar y hacer la concha de su madre me sacaron el reamde**
 
-**Ejercicio 2:**
+**Ejercicio 2: Creación de un archivo HTML de forma manual.**
 
-**Ejercicio 3:**
+**Ejercicio 3: Crear un archivo LaTex en <https://es.overleaf.com/>**
 
-**Ejercicio 4:**
+**Ejercicio 4: Creación de Notebooks**
 
-**Ejercicio 5:**
+**Ejercicio 5: Creación de un CV en un archivo LaTex.**
 
-**Ejercicio 6:**
+**Ejercicio 6: Creación de un archivo con metadatos en el entorno R**
 
