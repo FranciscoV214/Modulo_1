@@ -1,6 +1,6 @@
 # Modulo_1
 
-**Ejercicio 1: Cómo crear, modificar y hacer la concha de su madre me sacaron el reamde**
+**Ejercicio 1: Cómo crear, modificar y hacer un archivo README.md**
 
 **Ejercicio 2: Creación de un archivo HTML de forma manual.**
 
