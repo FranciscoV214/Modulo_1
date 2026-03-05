@@ -12,3 +12,10 @@
 
 **Ejercicio 6: Creación de un archivo con metadatos en el entorno R**
 
+...
+
+
+
+<https://github.com/AnaAlarcon002/-modulo1>
+<https://github.com/katherina-martinez/MODULO-1.git>
+<Falta el del santi>
