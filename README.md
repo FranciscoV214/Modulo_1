@@ -1,6 +1,5 @@
 # Modulo_1
 
----
 
 **Ejercicio 1: Cómo crear, modificar y hacer un archivo README.md**
 
