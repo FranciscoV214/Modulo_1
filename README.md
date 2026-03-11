@@ -16,9 +16,7 @@
 ---
 
 
-
 <https://github.com/AnaAlarcon002/-modulo1>
 
-<https://github.com/katherina-martinez/MODULO-1.git>
-
 <https://Falta.el/del-santi.com>
+
