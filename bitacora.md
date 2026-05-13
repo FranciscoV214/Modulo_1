@@ -18,3 +18,13 @@
 22/04/26
 
 - Uso de SDR++ como alternativa a RTLSDR.
+- Simulaciones en MMAGA-Gal de distintas configuraciones de antenas: Moxon, Yagi, Dipolo, entre otras.
+
+
+29/04/26
+- Elección de la antena a construir. Nos quedamos con la antena tipo Moxon.
+- Cálculo de dimensiones físicas para la construcción de la antena Moxon.
+
+6/04/26
+- Facultad cerrada por Zonda.
+- Trabajo para la casa: ver videos sobre antena Moxon.
