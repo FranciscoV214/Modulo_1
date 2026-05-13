@@ -13,7 +13,7 @@
 
 15/04/26
 
-- Uso de RTLSDR para ...
+- Uso de RTLSDR para recibir ondas de radio.
 
 22/04/26
 
