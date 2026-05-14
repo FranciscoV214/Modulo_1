@@ -28,3 +28,7 @@
 6/04/26
 - Facultad cerrada por Zonda.
 - Trabajo para la casa: ver videos sobre antena Moxon.
+
+13/04/26
+- Construcción de antenas.
+- Sugerencia del profesor de que trabajemos fuera del horario de clases por bajo aprovechamiento del tiempo.
