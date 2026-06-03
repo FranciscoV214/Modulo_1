@@ -25,10 +25,10 @@
 - Elección de la antena a construir. Nos quedamos con la antena tipo Moxon.
 - Cálculo de dimensiones físicas para la construcción de la antena Moxon.
 
-6/04/26
+6/05/26
 - Facultad cerrada por Zonda.
 - Trabajo para la casa: ver videos sobre antena Moxon.
 
-13/04/26
+13/05/26
 - Construcción de antenas.
 - Sugerencia del profesor de que trabajemos fuera del horario de clases por bajo aprovechamiento del tiempo.
